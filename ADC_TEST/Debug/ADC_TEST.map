@@ -1,0 +1,927 @@
+Archive member included because of file (symbol)
+
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./04-APP/main.o (__mulsi3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./04-APP/main.o (__udivmodhi4)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./03-HAL/03-CLCD/CLCD_program.o (__divmodsi4)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./04-APP/main.o (__do_copy_data)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./02-MCAL/02-EXT/EXT_INT_program.o (__do_clear_bss)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                              ./03-HAL/03-CLCD/CLCD_program.o (__ashldi3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./04-APP/main.o (__fixunssfsi)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+                              ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o (__floatundisf)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+                              ./03-HAL/03-CLCD/CLCD_program.o (__udivdi3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+                              ./03-HAL/03-CLCD/CLCD_program.o (__umoddi3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./04-APP/main.o (__mulsf3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./04-APP/main.o (__gtsf2)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./04-APP/main.o (__ltsf2)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__floatsisf)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__floatunsisf)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__prologue_saves__)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__epilogue_restores__)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__lshrdi3)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o) (__clz_tab)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              ./03-HAL/03-CLCD/CLCD_program.o (strlen)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./04-APP/main.o
+LOAD ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+LOAD ./03-HAL/05-KEYPAD/KEYPAD_program.o
+LOAD ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+LOAD ./03-HAL/03-CLCD/CLCD_program.o
+LOAD ./03-HAL/02-SSD/SSD_program.o
+LOAD ./03-HAL/01-LED/LED_program.o
+LOAD ./02-MCAL/04- ADC/ADC_program.o
+LOAD ./02-MCAL/03-GIE/GIE_program.o
+LOAD ./02-MCAL/02-EXT/EXT_INT_program.o
+LOAD ./02-MCAL/01-DIO/DIO_program.o
+LOAD d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x5536
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./04-APP/main.o
+ .text          0x00000092        0x0 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+ .text          0x00000092        0x0 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+ .text          0x00000092        0x0 ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+ .text          0x00000092        0x0 ./03-HAL/03-CLCD/CLCD_program.o
+ .text          0x00000092        0x0 ./03-HAL/02-SSD/SSD_program.o
+ .text          0x00000092        0x0 ./03-HAL/01-LED/LED_program.o
+ .text          0x00000092        0x0 ./02-MCAL/04- ADC/ADC_program.o
+ .text          0x00000092        0x0 ./02-MCAL/03-GIE/GIE_program.o
+ .text          0x00000092        0x0 ./02-MCAL/02-EXT/EXT_INT_program.o
+ .text          0x00000092        0x0 ./02-MCAL/01-DIO/DIO_program.o
+ .text          0x00000092        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0xfe d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                0x00000092                __ashldi3
+ .text          0x00000190       0x58 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000190                __fixunssfsi
+ .text          0x000001e8      0x1b8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+                0x000001e8                __floatundisf
+ .text          0x000003a0      0xcea d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+                0x000003a0                __udivdi3
+ .text          0x0000108a      0xce0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+                0x0000108a                __umoddi3
+ .text          0x00001d6a      0x354 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00002002                __subsf3
+                0x00002064                __addsf3
+ .text          0x000020be      0x1f4 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x000020be                __mulsf3
+ .text          0x000022b2       0x60 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x000022b2                __gtsf2
+ .text          0x00002312       0x60 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00002312                __gesf2
+ .text          0x00002372       0x60 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x00002372                __ltsf2
+ .text          0x000023d2       0xbc d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                0x000023d2                __floatsisf
+ .text          0x0000248e       0xa8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x0000248e                __fixsfsi
+ .text          0x00002536        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00002536       0xf2 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00002536                __floatunsisf
+ .text          0x00002628        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00002628        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00002628        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00002628       0xfe d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                0x00002628                __lshrdi3
+ .text          0x00002726        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00002726       0x9e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00002726                __clzsi2
+ .text          0x000027c4      0x1aa d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x000027c4                __pack_f
+ .text          0x0000296e       0xf0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x0000296e                __unpack_f
+ .text          0x00002a5e       0xb2 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00002a5e                __fpcmp_parts_f
+ .text          0x00002b10        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x00002b10                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x00002b10      0x1ae ./04-APP/main.o
+                0x00002b10                main
+ .text.DC_Init  0x00002cbe       0x36 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+                0x00002cbe                DC_Init
+ .text.DC_Cw    0x00002cf4       0x36 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+                0x00002cf4                DC_Cw
+ .text.DC_Ccw   0x00002d2a       0x36 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+                0x00002d2a                DC_Ccw
+ .text.DC_Off   0x00002d60       0x36 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+                0x00002d60                DC_Off
+ .text.DC_Tog   0x00002d96      0x264 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+                0x00002d96                DC_Tog
+ .text.Keypad_init
+                0x00002ffa       0xc6 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+                0x00002ffa                Keypad_init
+ .text.KeyBad_uint8GetKey
+                0x000030c0       0xc2 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+                0x000030c0                KeyBad_uint8GetKey
+ .text.PushButton_voidInit
+                0x00003182       0x40 ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+                0x00003182                PushButton_voidInit
+ .text.PushButton_voidRead
+                0x000031c2       0x5c ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+                0x000031c2                PushButton_voidRead
+ .text.LCD_Init
+                0x0000321e      0x222 ./03-HAL/03-CLCD/CLCD_program.o
+                0x0000321e                LCD_Init
+ .text.LCD_WriteInst
+                0x00003440      0x216 ./03-HAL/03-CLCD/CLCD_program.o
+                0x00003440                LCD_WriteInst
+ .text.LCD_WriteData
+                0x00003656      0x216 ./03-HAL/03-CLCD/CLCD_program.o
+                0x00003656                LCD_WriteData
+ .text.LCD_WriteString
+                0x0000386c       0x5c ./03-HAL/03-CLCD/CLCD_program.o
+                0x0000386c                LCD_WriteString
+ .text.LCD_Goto
+                0x000038c8       0x5a ./03-HAL/03-CLCD/CLCD_program.o
+                0x000038c8                LCD_Goto
+ .text.LCD_PrintNumber
+                0x00003922      0x876 ./03-HAL/03-CLCD/CLCD_program.o
+                0x00003922                LCD_PrintNumber
+ .text.LCD_PrintBinary
+                0x00004198       0x60 ./03-HAL/03-CLCD/CLCD_program.o
+                0x00004198                LCD_PrintBinary
+ .text.LCD_PrintHex
+                0x000041f8       0x64 ./03-HAL/03-CLCD/CLCD_program.o
+                0x000041f8                LCD_PrintHex
+ .text.LCD_DrawCharInAdd
+                0x0000425c       0x4a ./03-HAL/03-CLCD/CLCD_program.o
+                0x0000425c                LCD_DrawCharInAdd
+ .text.LCD_Draw_Char
+                0x000042a6       0x64 ./03-HAL/03-CLCD/CLCD_program.o
+                0x000042a6                LCD_Draw_Char
+ .text.LCD_Clear
+                0x0000430a       0x14 ./03-HAL/03-CLCD/CLCD_program.o
+                0x0000430a                LCD_Clear
+ .text.LCD_ReverseNumber
+                0x0000431e       0xd8 ./03-HAL/03-CLCD/CLCD_program.o
+                0x0000431e                LCD_ReverseNumber
+ .text.LCD_WriteNum
+                0x000043f6      0x218 ./03-HAL/03-CLCD/CLCD_program.o
+                0x000043f6                LCD_WriteNum
+ .text.SSD_voidSetSSD
+                0x0000460e       0x20 ./03-HAL/02-SSD/SSD_program.o
+                0x0000460e                SSD_voidSetSSD
+ .text.LED_voidInit
+                0x0000462e       0x2c ./03-HAL/01-LED/LED_program.o
+                0x0000462e                LED_voidInit
+ .text.LED_voidLedMode
+                0x0000465a       0x6a ./03-HAL/01-LED/LED_program.o
+                0x0000465a                LED_voidLedMode
+ .text.ADC_voidInit
+                0x000046c4       0x8c ./02-MCAL/04- ADC/ADC_program.o
+                0x000046c4                ADC_voidInit
+ .text.ADC_u8StartConversion
+                0x00004750       0x7a ./02-MCAL/04- ADC/ADC_program.o
+                0x00004750                ADC_u8StartConversion
+ .text.GIE_voidEnable
+                0x000047ca       0x1c ./02-MCAL/03-GIE/GIE_program.o
+                0x000047ca                GIE_voidEnable
+ .text.GIE_voidDisable
+                0x000047e6       0x1c ./02-MCAL/03-GIE/GIE_program.o
+                0x000047e6                GIE_voidDisable
+ .text.EXT_INT_voidInit
+                0x00004802      0x218 ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00004802                EXT_INT_voidInit
+ .text.EXT_INT_voidSetCallBack
+                0x00004a1a       0x36 ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00004a1a                EXT_INT_voidSetCallBack
+ .text.__vector_1
+                0x00004a50       0x5a ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00004a50                __vector_1
+ .text.__vector_2
+                0x00004aaa       0x5a ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00004aaa                __vector_2
+ .text.__vector_3
+                0x00004b04       0x5a ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00004b04                __vector_3
+ .text.EXT_INT_voidClearFlag
+                0x00004b5e       0x54 ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00004b5e                EXT_INT_voidClearFlag
+ .text.DIO_voidSetPinDirection
+                0x00004bb2      0x204 ./02-MCAL/01-DIO/DIO_program.o
+                0x00004bb2                DIO_voidSetPinDirection
+ .text.DIO_voidSetPinValue
+                0x00004db6      0x204 ./02-MCAL/01-DIO/DIO_program.o
+                0x00004db6                DIO_voidSetPinValue
+ .text.DIO_u8GetPinValue
+                0x00004fba       0xf2 ./02-MCAL/01-DIO/DIO_program.o
+                0x00004fba                DIO_u8GetPinValue
+ .text.DIO_voidSetPortDirection
+                0x000050ac       0x84 ./02-MCAL/01-DIO/DIO_program.o
+                0x000050ac                DIO_voidSetPortDirection
+ .text.DIO_voidSetPortValue
+                0x00005130       0x84 ./02-MCAL/01-DIO/DIO_program.o
+                0x00005130                DIO_voidSetPortValue
+ .text.DIO_voidSetTogglePin
+                0x000051b4       0xfc ./02-MCAL/01-DIO/DIO_program.o
+                0x000051b4                DIO_voidSetTogglePin
+ .text.DIO_u8GetPinValue_Store
+                0x000052b0      0x122 ./02-MCAL/01-DIO/DIO_program.o
+                0x000052b0                DIO_u8GetPinValue_Store
+ .text.libgcc   0x000053d2       0x3e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x000053d2                __mulsi3
+ .text.libgcc   0x00005410       0x28 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00005410                __udivmodhi4
+ .text.libgcc   0x00005438       0x36 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00005438                __divmodsi4
+ .text.libgcc   0x0000546e        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000546e        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000546e        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000546e       0x44 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000546e                __udivmodsi4
+ .text.libgcc   0x000054b2       0x38 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x000054b2                __prologue_saves__
+ .text.libgcc   0x000054ea       0x36 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x000054ea                __epilogue_restores__
+ .text.avr-libc
+                0x00005520       0x12 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x00005520                strlen
+                0x00005532                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00005532        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00005532                exit
+                0x00005532                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00005532        0x4 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00005536                _etext = .
+
+.data           0x00800060      0x134 load address 0x00005536
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x7 ./04-APP/main.o
+ .data          0x00800067        0x0 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+ .data          0x00800067        0x0 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+ .data          0x00800067        0x0 ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+ .data          0x00800067        0x3 ./03-HAL/03-CLCD/CLCD_program.o
+ .data          0x0080006a        0x0 ./03-HAL/02-SSD/SSD_program.o
+ .data          0x0080006a        0x0 ./03-HAL/01-LED/LED_program.o
+ .data          0x0080006a        0x0 ./02-MCAL/04- ADC/ADC_program.o
+ .data          0x0080006a        0x0 ./02-MCAL/03-GIE/GIE_program.o
+ .data          0x0080006a        0x0 ./02-MCAL/02-EXT/EXT_INT_program.o
+ .data          0x0080006a        0x0 ./02-MCAL/01-DIO/DIO_program.o
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x0080006a        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x0080006a        0x8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x0080006a                __thenan_sf
+ .data          0x00800072        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800072        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800072        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800072        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800072        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .data          0x00800072      0x100 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800072                __clz_tab
+ .data          0x00800172        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800172        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800172        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800172        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800172        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ *(.data*)
+ .data.Keypad_arr
+                0x00800172       0x10 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+                0x00800172                Keypad_arr
+ .data.lastButtonState.1695
+                0x00800182        0x1 ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+ .data.arr      0x00800183        0x8 ./03-HAL/03-CLCD/CLCD_program.o
+                0x00800183                arr
+ .data.arr_2    0x0080018b        0x8 ./03-HAL/03-CLCD/CLCD_program.o
+                0x0080018b                arr_2
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800194                . = ALIGN (0x2)
+ *fill*         0x00800193        0x1 00
+                0x00800194                _edata = .
+                0x00800194                PROVIDE (__data_end, .)
+
+.bss            0x00800194        0x6
+                0x00800194                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800194        0x0 ./04-APP/main.o
+ .bss           0x00800194        0x0 ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+ .bss           0x00800194        0x0 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+ .bss           0x00800194        0x0 ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+ .bss           0x00800194        0x0 ./03-HAL/03-CLCD/CLCD_program.o
+ .bss           0x00800194        0x0 ./03-HAL/02-SSD/SSD_program.o
+ .bss           0x00800194        0x0 ./03-HAL/01-LED/LED_program.o
+ .bss           0x00800194        0x0 ./02-MCAL/04- ADC/ADC_program.o
+ .bss           0x00800194        0x0 ./02-MCAL/03-GIE/GIE_program.o
+ .bss           0x00800194        0x0 ./02-MCAL/02-EXT/EXT_INT_program.o
+ .bss           0x00800194        0x0 ./02-MCAL/01-DIO/DIO_program.o
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800194        0x0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ *(.bss*)
+ .bss.GAPF      0x00800194        0x6 ./02-MCAL/02-EXT/EXT_INT_program.o
+                0x00800194                GAPF
+ *(COMMON)
+                0x0080019a                PROVIDE (__bss_end, .)
+                0x00005536                __data_load_start = LOADADDR (.data)
+                0x0000566a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080019a        0x0
+                0x0080019a                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080019a                PROVIDE (__noinit_end, .)
+                0x0080019a                _end = .
+                0x0080019a                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x3204
+ *(.stab)
+ .stab          0x00000000      0x648 ./04-APP/main.o
+ .stab          0x00000648      0x4bc ./03-HAL/06-DC_MOTOR/DC_Motor_Program.o
+                                0x654 (size before relaxing)
+ .stab          0x00000b04      0x474 ./03-HAL/05-KEYPAD/KEYPAD_program.o
+                                0x6b4 (size before relaxing)
+ .stab          0x00000f78      0x324 ./03-HAL/04-PUSH_BUTTON/PushButton_program.o
+                                0x564 (size before relaxing)
+ .stab          0x0000129c      0xcfc ./03-HAL/03-CLCD/CLCD_program.o
+                                0xf3c (size before relaxing)
+ .stab          0x00001f98      0x1b0 ./03-HAL/02-SSD/SSD_program.o
+                                0x1bc (size before relaxing)
+ .stab          0x00002148      0x234 ./03-HAL/01-LED/LED_program.o
+                                0x240 (size before relaxing)
+ .stab          0x0000237c      0x27c ./02-MCAL/04- ADC/ADC_program.o
+                                0x288 (size before relaxing)
+ .stab          0x000025f8      0x1c8 ./02-MCAL/03-GIE/GIE_program.o
+                                0x1d4 (size before relaxing)
+ .stab          0x000027c0      0x444 ./02-MCAL/02-EXT/EXT_INT_program.o
+                                0x450 (size before relaxing)
+ .stab          0x00002c04      0x600 ./02-MCAL/01-DIO/DIO_program.o
+                                0x60c (size before relaxing)
+
+.stabstr        0x00000000     0x1bee
+ *(.stabstr)
+ .stabstr       0x00000000     0x1bee ./04-APP/main.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x240
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000020       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000040       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_aranges
+                0x00000060       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000080       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000100       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x00000120       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x00000140       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000160       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000180       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x000001c0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000001e0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000200       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000220       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x299
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_pubnames
+                0x00000020       0x23 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000043       0x24 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_pubnames
+                0x00000067       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_pubnames
+                0x00000087       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_pubnames
+                0x000000a7       0x2c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x000000d3       0x1f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x000000f2       0x1e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x00000110       0x1e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x0000012e       0x1e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x0000014c       0x22 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x0000016e       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x0000018e       0x22 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x000001b0       0x24 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x000001d4       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_pubnames
+                0x000001f4       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_pubnames
+                0x00000214       0x1f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000233       0x1f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000252       0x21 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000273       0x26 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x34eb
+ *(.debug_info)
+ .debug_info    0x00000000      0x17f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_info    0x0000017f       0xb1 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x00000230      0x162 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_info    0x00000392      0x71e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_info    0x00000ab0      0x757 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_info    0x00001207      0x47a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x00001681      0x485 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x00001b06      0x27f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00001d85      0x27f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00002004      0x27f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00002283      0x207 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_info    0x0000248a      0x2b0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x0000273a      0x12c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00002866      0x206 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00002a6c      0x17f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_info    0x00002beb       0xa9 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_info    0x00002c94      0x117 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00002dab      0x2df d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x0000308a      0x251 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x000032db      0x210 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1878
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xee d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x000000ee       0x5d d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000014b       0xd3 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_abbrev  0x0000021e      0x181 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000039f      0x190 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000052f      0x1ea d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000719      0x21b d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000934      0x15a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000a8e      0x15a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000be8      0x15a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000d42      0x148 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000e8a      0x17f d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00001009       0xad d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x000010b6      0x157 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x0000120d       0xee d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000012fb       0x6a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_abbrev  0x00001365       0xc4 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00001429      0x1c0 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000015e9      0x154 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x0000173d      0x13b d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000     0x17e9
+ *(.debug_line)
+ .debug_line    0x00000000       0xd7 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_line    0x000000d7       0xa7 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x0000017e       0xfd d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_line    0x0000027b      0x1d8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_line    0x00000453      0x230 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_line    0x00000683      0x2af d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000932      0x239 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x00000b6b       0xd3 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000c3e       0xd3 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000d11       0xd3 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000de4      0x135 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000f19      0x109 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00001022       0x90 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000010b2      0x133 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x000011e5       0xd7 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_line    0x000012bc       0x7c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_line    0x00001338       0xa5 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x000013dd      0x18a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00001567      0x14b d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x000016b2      0x137 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x260
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_frame   0x00000020       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000040       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_frame   0x00000060       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00000080       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_frame   0x000000a0       0x40 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000100       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000120       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000140       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000160       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000180       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000001a0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x000001c0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_frame   0x000001e0       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000200       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000220       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000240       0x20 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x393
+ *(.debug_str)
+ .debug_str     0x00000000       0xdf d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x000000df       0x14 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000f3       0x39 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+                                0x12a (size before relaxing)
+ .debug_str     0x0000012c       0x5d d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+                                0x18a (size before relaxing)
+ .debug_str     0x00000189        0xa d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+                                0x18a (size before relaxing)
+ .debug_str     0x00000193      0x14d d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x000002e0       0x27 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000307        0x8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000030f        0x8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000317        0x8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000031f       0x18 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                                0x17b (size before relaxing)
+ .debug_str     0x00000337        0xa d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000341       0x14 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x00000355        0xa d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+                                0x131 (size before relaxing)
+ .debug_str     0x00000000       0xf4 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .debug_str     0x0000035f        0x9 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x00000368       0x10 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000378        0xb d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x00000383       0x10 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000     0x265a
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xf8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ashldi3.o)
+ .debug_loc     0x000000f8       0x34 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x0000012c      0x1ea d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_floatundisf.o)
+ .debug_loc     0x00000316      0xe74 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000118a      0xab2 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_loc     0x00001c3c      0x32a d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x00001f66      0x104 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x0000206a       0x3c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x000020a6       0x3c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000020e2       0x3c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x0000211e       0xac d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x000021ca       0x7e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00002248       0x4c d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00002294       0xf8 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lshrdi3.o)
+ .debug_loc     0x0000238c       0x94 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00002420      0x13e d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x0000255e       0xac d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000260a       0x50 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(ADC_TEST.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x80
+ .debug_ranges  0x00000000       0x18 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000018       0x18 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_umoddi3.o)
+ .debug_ranges  0x00000030       0x50 d:/diploma/embdedded/02_microcontroller_interfacing/programs/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
